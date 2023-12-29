@@ -1,3 +1,18 @@
 <resources>
-    <string name="app_name">watchLink</string>
+    <string name="app_name">WatchLinkApp</string>
+    <string name="movie_title">Название</string>
+    <string name="movie_genre">Жанр</string>
+    <string name="movie_release_year">Год релиза</string>
+    <string name="movie_duration">Длительность</string>
+    <string name="movie_rating">Рейтинг</string>
+    <string name="movie_synopsis">Описание</string>
+    <string name="movie_director">Режиссёр</string>
+    <string name="movie_catalog_title">Каталог</string>
+    <string name="movie_view_title">Каталог</string>
+    <string name="profile_title">Профиль</string>
+    <string name="search_title">Поиск</string>
+    <string name="signup_title">Регистрация</string>
+    <string name="login_title">Вход</string>
+    <string name="filter_title">Фильтрация</string>
+    <string name="report_title">Отчет</string>
 </resources>

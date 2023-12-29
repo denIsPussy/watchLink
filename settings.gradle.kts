@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "watchLink"
+rootProject.name = "WatchLinkApp"
 include(":app")
  

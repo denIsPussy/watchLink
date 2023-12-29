@@ -7,4 +7,12 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="oldBackgroundColor">#0D0316</color>
+    <color name="backgroundColor">#100e1b</color>
+    <color name="backgroundNavBarColor">#1d1b29</color>
+    <color name="button">#703E97</color>
+    <color name="statusBarColor">#0D0316</color>
+    <color name="cardColor">#0D0316</color>
+    <color name="statusBarTextColor">#E3E3E3</color>
+    <color name="textColor">#595467</color>
 </resources>
